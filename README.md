@@ -9,7 +9,7 @@ The HERO platform helps BEST Brașov monitor the activity of its members, track 
 
 ## Status
 
-This project is currently **under development**. The IT department is working to stabilize the platform, making it more reliable for internal use. The current efforts are led by the IT team, with Răzvan and Vlad as the key contributors driving these improvements.
+This project is currently **under development**. The IT department is working to stabilize the platform, making it more reliable for internal use. The current efforts are led by the IT team, with Vlad and Răzvan as the key contributors driving these improvements.
 
 ## Future Plans
 
