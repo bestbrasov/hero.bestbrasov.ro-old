@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="841c6288-ab8e-47fa-8668-07c7d962e054" name="hero.bestbrasov" url="http://mishu.ftp.bestbrasov.ro">
+        <fileTransfer rootFolder="/hero.bestbrasov.ro" host="ftp.bestbrasov.ro" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
